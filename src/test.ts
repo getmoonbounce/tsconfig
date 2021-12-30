@@ -1,3 +1,5 @@
+import { a } from "./a";
+
 /**
  * A very cool number.
  * 
@@ -8,4 +10,4 @@
  */
 export const x = 42;
 
-console.log(x);
+console.log(x + a);
